@@ -4,11 +4,11 @@
 
 ## Preference
 
-![image-20250607104322340](/Users/york/Library/Application Support/typora-user-images/image-20250607104322340.png)
+![image-1](./images/1.jpg)
 
 
 
 ## Usage:
 
-![image-20250607104749585](/Users/york/Library/Application Support/typora-user-images/image-20250607104749585.png)
+![image-2](./images/2.jpg)
 
